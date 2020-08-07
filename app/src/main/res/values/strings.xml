@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IT Books</string>
+    <string-array name="options">
+        <item>Java Books</item>
+        <item>Kotlin Books</item>
+        <item>Android Books</item>
+    </string-array>
+</resources>
